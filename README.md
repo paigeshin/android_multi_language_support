@@ -5,14 +5,14 @@ https://www.notion.so/Android-Multi-Language-Support-bf0d8f869c32494e84fcfca7050
 
 - language code
 
-    Korean : ko
-    Korean : ko-KR
-    French : fr 
-    French : fr-FR 
-    German : de
-    German : de-DE
-    Spanish : es
-    Spanish : es-ES
+        Korean : ko
+        Korean : ko-KR
+        French : fr 
+        French : fr-FR 
+        German : de
+        German : de-DE
+        Spanish : es
+        Spanish : es-ES
 
 I. string 파일을 새로 추가한다.
 
